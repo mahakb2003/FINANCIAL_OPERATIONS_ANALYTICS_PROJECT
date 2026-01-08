@@ -1,0 +1,51 @@
+customer_id,segment,industry,plan,mrr,usage_score,nps_score,support_tickets,churn_probability,risk_level
+CUST_003088,Startup,Finance,Basic,49,21,45,3,0.8896878798260804,High Risk
+CUST_002920,Mid-Market,Education,Basic,49,33,15,2,0.8804162372757763,High Risk
+CUST_003382,Mid-Market,Retail,Basic,49,20,55,2,0.8801220171120292,High Risk
+CUST_002056,Small Business,Manufacturing,Professional,149,15,48,3,0.878149076894773,High Risk
+CUST_002175,Small Business,Healthcare,Basic,49,28,-7,2,0.8702650252877465,High Risk
+CUST_001244,Small Business,Manufacturing,Basic,49,25,-10,2,0.868895260044091,High Risk
+CUST_004407,Startup,Technology,Basic,49,32,79,2,0.8681648426548928,High Risk
+CUST_003850,Startup,Technology,Basic,49,30,50,2,0.8612989665338112,High Risk
+CUST_000339,Startup,Real Estate,Basic,49,11,11,2,0.8597914257612732,High Risk
+CUST_001306,Startup,Healthcare,Basic,49,35,12,2,0.853904096115787,High Risk
+CUST_004478,Small Business,Retail,Basic,49,29,66,2,0.8528165782248537,High Risk
+CUST_003201,Small Business,Real Estate,Professional,149,42,-33,3,0.8493310471596281,High Risk
+CUST_003523,Small Business,Technology,Basic,49,33,72,3,0.8490977100226771,High Risk
+CUST_003147,Startup,Healthcare,Basic,49,30,39,2,0.8479932125809327,High Risk
+CUST_004528,Startup,Education,Basic,49,38,73,3,0.8460441016118471,High Risk
+CUST_001436,Mid-Market,Education,Professional,149,42,30,3,0.8459814660645175,High Risk
+CUST_004329,Small Business,Education,Basic,49,37,100,3,0.8427041272965855,High Risk
+CUST_004643,Startup,Technology,Basic,49,39,65,3,0.8400424037937185,High Risk
+CUST_001073,Small Business,Technology,Basic,49,33,47,2,0.8399033106750292,High Risk
+CUST_003545,Mid-Market,Healthcare,Basic,49,43,40,3,0.8396721886753533,High Risk
+CUST_000070,Small Business,Retail,Basic,49,33,-23,3,0.838202000518237,High Risk
+CUST_002364,Small Business,Finance,Basic,49,31,90,1,0.8374710711481277,High Risk
+CUST_003603,Startup,Retail,Basic,49,38,100,2,0.8362684142957956,High Risk
+CUST_004843,Mid-Market,Real Estate,Basic,49,21,-10,4,0.8351285101514256,High Risk
+CUST_003309,Small Business,Retail,Basic,49,27,-10,3,0.8341962445743617,High Risk
+CUST_002105,Mid-Market,Real Estate,Basic,49,43,100,3,0.8327624379411944,High Risk
+CUST_000357,Small Business,Retail,Basic,49,25,62,2,0.8320678333421034,High Risk
+CUST_002148,Small Business,Manufacturing,Basic,49,44,40,3,0.8313733532360352,High Risk
+CUST_000254,Small Business,Education,Professional,149,41,-36,2,0.8311438927403908,High Risk
+CUST_003660,Small Business,Finance,Professional,149,39,25,4,0.8300159871125924,High Risk
+CUST_004027,Small Business,Retail,Basic,49,42,23,4,0.8297996824627183,High Risk
+CUST_003270,Mid-Market,Healthcare,Basic,49,30,-8,1,0.8296952686426295,High Risk
+CUST_003354,Small Business,Technology,Basic,49,32,51,3,0.8296642680933318,High Risk
+CUST_002301,Startup,Healthcare,Basic,49,0,10,3,0.8295803682783688,High Risk
+CUST_003095,Enterprise,Technology,Business,399,12,27,3,0.8295607373498097,High Risk
+CUST_002119,Small Business,Real Estate,Basic,49,37,35,4,0.8285879789987844,High Risk
+CUST_000321,Small Business,Technology,Basic,49,38,51,2,0.8260006968658051,High Risk
+CUST_001460,Mid-Market,Technology,Business,399,11,36,4,0.8238090116990985,High Risk
+CUST_002831,Startup,Healthcare,Business,399,38,-3,3,0.823624804564451,High Risk
+CUST_000233,Mid-Market,Healthcare,Basic,49,41,67,3,0.8234768889445182,High Risk
+CUST_001404,Mid-Market,Technology,Business,399,27,10,4,0.8217262677816792,High Risk
+CUST_002021,Small Business,Technology,Basic,49,41,69,3,0.8208259619363646,High Risk
+CUST_000680,Small Business,Real Estate,Basic,49,41,83,3,0.8201765391114907,High Risk
+CUST_004156,Mid-Market,Technology,Basic,49,44,-90,2,0.8198065149453952,High Risk
+CUST_000284,Small Business,Manufacturing,Basic,49,33,25,3,0.8193995974381316,High Risk
+CUST_002455,Small Business,Healthcare,Basic,49,52,67,3,0.818601669165412,High Risk
+CUST_003082,Mid-Market,Healthcare,Basic,49,41,35,3,0.8182311197220471,High Risk
+CUST_000890,Small Business,Retail,Professional,149,19,23,2,0.8177290214524859,High Risk
+CUST_003699,Enterprise,Healthcare,Basic,49,44,27,2,0.8176375008608884,High Risk
+CUST_004822,Startup,Technology,Business,399,29,59,3,0.8175095902726253,High Risk
