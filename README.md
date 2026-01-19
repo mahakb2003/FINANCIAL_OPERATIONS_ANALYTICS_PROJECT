@@ -117,13 +117,11 @@ Statsmodels
 
 📌 Key Takeaways
 
-Demonstrates real-world financial analytics workflows
+-Demonstrates real-world financial analytics workflows
+-Combines forecasting, ML, and business KPIs
+-Designed for interview discussion and portfolio presentation
+-Strong focus on business impact, not just models
 
-Combines forecasting, ML, and business KPIs
-
-Designed for interview discussion and portfolio presentation
-
-Strong focus on business impact, not just models
 📬 Author
 
 Mahak Bisht
